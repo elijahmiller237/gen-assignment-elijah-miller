@@ -1,6 +1,6 @@
 name = "gen-assignment-elijah-miller"
-type = "javascript"
-account_id = ""
+type = "webpack"
+account_id = "8a64bc24c0947b4352fef13536c93300"
 workers_dev = true
 route = ""
 zone_id = ""
