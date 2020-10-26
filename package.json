@@ -2,7 +2,7 @@
   "private": true,
   "name": "gen-assignment-elijah-miller",
   "version": "1.0.0",
-  "description": "A template for kick starting a Cloudflare Workers project",
+  "description": "A Linktree style page with some fun websites",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
